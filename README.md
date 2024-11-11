@@ -80,7 +80,8 @@ plt.show()
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
-
+![image](https://github.com/user-attachments/assets/d3c41cbf-491c-4829-ae72-b478fa6530c6)
+![image](https://github.com/user-attachments/assets/a306e5d4-ca90-48fe-a393-632b777fafc0)
 
 ## Result:
 Thus, the program to implement the multiple linear regression model with cross-validation for predicting car prices is written and verified using Python programming.
